@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jaydubbee.github.io/Sour-Cream-and-Fire-Sauce/sitemap.xml
